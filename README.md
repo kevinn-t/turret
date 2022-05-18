@@ -6,13 +6,15 @@
 ## To code for the Arduino in Python:  
  1) Download the Arduino IDE (if you don't already have it) and open it.
  2) Click on File > Examples > Firmata > StandardFirmata
+ 
  ![image](https://user-images.githubusercontent.com/67160289/169120878-b4f5e704-73fc-4431-b070-2679d942f5c7.png)
- 3) Once you have the exammple file open, upload to an arduino board.
+ 
+ 3) Once you have the example file open, upload to an arduino board.
  4) Go into your powershell and enter 'pip install pyfirmata'
- 5) import pyfirmata into your file and that's it.
+ 5) 'import pyfirmata' into your file and that's it.
 
  Here's a link to the pyfirmata docs: https://pyfirmata.readthedocs.io/en/latest/
  
  ## Installing OpenCV:
-  1) Enter 'pip install opencv-contrib-python' into 
+  1) Enter 'pip install opencv-contrib-python' into powershell
   2) When importing this package, you only need 'import cv2'
