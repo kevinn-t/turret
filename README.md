@@ -7,11 +7,13 @@
  1) Download the Arduino IDE (if you don't already have it) and open it.
  2) Click on File > Examples > Firmata > StandardFirmata
  
- ![image](https://user-images.githubusercontent.com/67160289/169120878-b4f5e704-73fc-4431-b070-2679d942f5c7.png)
+  ![image](https://user-images.githubusercontent.com/67160289/169120878-b4f5e704-73fc-4431-b070-2679d942f5c7.png)
  
- 3) Once you have the example file open, upload to an arduino board.
+ 3) Once you have the example file open, upload to an arduino board using the arrow at the top left.
  4) Go into your powershell and enter 'pip install pyfirmata'
  5) 'import pyfirmata' into your file and that's it.
+
+ Any code written and executed in your file will automatically be uploaded to the Arduino.
 
  Here's a link to the pyfirmata docs: https://pyfirmata.readthedocs.io/en/latest/
  
