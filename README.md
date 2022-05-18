@@ -13,10 +13,9 @@
  4) Go into your powershell and enter 'pip install pyfirmata'
  5) 'import pyfirmata' into your file and that's it.
 
- Any code written and executed in your file will automatically be uploaded to the Arduino.
+  Any code written and executed in your file will automatically be uploaded to the Arduino.
 
- Here's a link to the pyfirmata docs: https://pyfirmata.readthedocs.io/en/latest/
+  Here's a link to the pyfirmata docs: https://pyfirmata.readthedocs.io/en/latest/
  
- ## Installing OpenCV:
-  1) Enter 'pip install opencv-contrib-python' into powershell
-  2) When importing this package, you only need 'import cv2'
+ ## Working with OpenCV:
+  1) Watch this: https://youtu.be/oXlwWbU8l2o :)
