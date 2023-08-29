@@ -1,4 +1,7 @@
 # Turret
+
+did work at some point... now not so much
+
  This program uses face detection to move a pair of servos to point at a face.
  I'll add more code to activate some harmful thing later...Maybe.
  
